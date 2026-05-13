@@ -2,10 +2,11 @@
   <img src="https://storage.googleapis.com/arize-assets/arize-logo-white.jpg" width="600" /><br><br>
 </div>
 
-> **Deprecated.** This package (`client_golang`) is in maintenance mode. New
-> development should target the v2 SDK at [`sdk/go/v2`](../v2)
-> (`github.com/Arize-ai/arize/sdk/go/v2`), which provides full coverage of the
-> Arize REST API.
+> **Deprecated.** This package (`client-go-v1`) is in maintenance mode. New
+> development should target the v2 SDK at [`client-go-v2`](https://github.com/Arize-ai/client-go-v2)
+> , which provides full coverage of the Arize REST API. Future development will
+> include the functionality of this version into the v2 version. If you need both,
+> we recommend using both versions simultaneously while we bring this functionality to the new version.
 
 [![Slack](https://img.shields.io/badge/slack-@arize-yellow.svg?logo=slack)](https://join.slack.com/t/arize-ai/shared_invite/zt-g9c1j1xs-aQEwOAkU4T2x5K8cqI1Xqg)
 [![license](https://img.shields.io/github/license/arize-ai/client_java)](https://github.com/Arize-ai/client_java/blob/main/LICENSE)
